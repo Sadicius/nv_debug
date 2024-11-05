@@ -1,3 +1,5 @@
+> ⚠️ WARNING! When you run this script, it can be used by everyone on the server! Be careful and use it on your test server or when there are no players on the server.
+
 ## Overview
 The **nv_debug** script is designed for the **OX** or **Overextended** framework. To ensure functionality, the following scripts are required:
 - **ox_lib**
